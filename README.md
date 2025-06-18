@@ -61,7 +61,6 @@
 ### 📬 Contact
 
 - 📫 Email: [altaqawy@gmail.com](mailto:altaqawy@gmail.com)
-- 💬 Telegram: [@altaqawy](https://t.me/altaqawy)
 - 🌐 Portfolio: [altaqawy.github.io](https://altaqawy.github.io)
 
 <p align="center">
