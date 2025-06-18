@@ -6,40 +6,44 @@
 
 ---
 
-<h1 align="center">👋 Hello, I'm Abdelrahman</h1>
-<h3 align="center">AI Developer • Automation Architect • Digital Craftsman</h3>
+<h1 align="center">👋 Hi, I'm Abdelrahman</h1>
+<h3 align="center"><strong>AI Developer • Automation Architect • Digital Craftsman</strong></h3>
+
+---
 
 ### 🧠 About Me
 
-- 🔭 Currently building intelligent systems to empower individuals and automate tedious tasks.
-- 🧩 I believe in crafting AI that's personal, ethical, and future-aligned.
-- 🌍 Obsessed with blending creativity + code to build usable tools fast.
+- 🔭 Currently building intelligent systems that empower people and automate the tedious.
+- 🤖 Advocate for personal, ethical, and future-ready AI.
+- 🎨 I thrive at the intersection of creativity and code—rapid prototyping is my superpower.
+- 🌱 Always learning: LLMs, prompt engineering, full-stack AI, and open-source tools.
 
 ---
 
-### 💼 Featured Projects
+### 🚀 Featured Projects
 
-| Skill              | Project Title            | Description |
-|-------------------|--------------------------|-------------|
-| 🌐 Web Platform     | **NEXA Agent**            | Full-stack AI automation platform for managing daily workflows. |
-| 🧠 NLP              | **Tafsir AI**             | Arabic-focused AI that interprets religious and historical texts. |
-| 🎨 UI Engineering   | **FramerX Studio**        | High-end landing page and motion animation system using Framer + Tailwind. |
-| ⚡ DevOps Automation| **NoSleepOps**           | Autonomous CI/CD task runner and system reporter. |
-| 📈 Analytics AI     | **InsightPulse**          | AI tool that summarizes dashboards and gives human-like performance advice. |
-| 🧾 Content Writing  | **SEOForge**             | AI system that generates optimized blog posts from keywords, images, and trends. |
-| 🛠️ Full Stack      | **TaskHive**             | A collaborative task-sharing web app with real-time updates and AI-based suggestions. |
-| 🧠 LLM Playground   | **Nova PromptLab**        | Prompt testing sandbox with auto-evaluation powered by Mistral + OpenAI. |
-| 💼 Freelance Tools  | **Rawnak Store**          | E-commerce store with dynamic shipping, giveaways, and multi-language support. |
-| 📊 Visualization    | **DashJet**               | Interactive dashboard builder with AI recommendations and export tools. |
-| 🎙️ Audio AI         | **TafsirVoice**           | Arabic voice-based QA system using Whisper + GPT fine-tuning. |
-| 🧠 AI Agents        | **JARVIS-Lite**           | Minimal self-hosted assistant that runs tasks, reminders, and summaries. |
-| 📤 Webhooks / APIs  | **HookNode**              | Serverless no-code platform to connect services via smart webhook flows. |
-| 💡 Code Generation | **AutoBuilder**           | Converts user prompts into deployable React apps using templates + AI. |
-| 📦 CMS Integration | **ContentCrafter**        | Next.js + Headless CMS system to create and publish articles with AI enrichment. |
+| Skill                | Project               | Description |
+|----------------------|----------------------|-------------|
+| 🌐 Web Platform      | **NEXA Agent**       | Full-stack AI automation platform for daily workflows. |
+| 🧠 NLP               | **Tafsir AI**        | Arabic AI that interprets religious/historical texts. |
+| 🎨 UI Engineering    | **FramerX Studio**   | Motion landing page builder (Framer + Tailwind). |
+| ⚡ DevOps Automation | **NoSleepOps**       | Autonomous CI/CD task runner & system reporter. |
+| 📈 Analytics AI      | **InsightPulse**     | Summarizes dashboards with human-like advice. |
+| 🧾 Content Writing   | **SEOForge**         | Generates SEO blog posts from keywords/images. |
+| 🛠️ Full Stack       | **TaskHive**         | Real-time task-sharing app with AI suggestions. |
+| 🧠 LLM Playground    | **Nova PromptLab**   | Prompt sandbox with auto-eval (Mistral+OpenAI). |
+| 💼 Freelance Tools   | **Rawnak Store**     | E-commerce: dynamic shipping, giveaways, i18n. |
+| 📊 Visualization     | **DashJet**          | Interactive dashboard builder with AI export. |
+| 🎙️ Audio AI         | **TafsirVoice**      | Arabic QA via Whisper + GPT fine-tuning. |
+| 🧠 AI Agents         | **JARVIS-Lite**      | Minimal self-hosted assistant for tasks/reminders. |
+| 📤 Webhooks / APIs   | **HookNode**         | Serverless no-code service connector. |
+| 💡 Code Generation  | **AutoBuilder**      | Prompts → deployable React apps via templates. |
+| 📦 CMS Integration  | **ContentCrafter**   | Next.js + Headless CMS with AI enrichment. |
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,openai,vscode,vercel,git,figma,linux,react,python,nodejs,docker" alt="Skills" />
 </p>
@@ -47,13 +51,16 @@
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=altaqawy&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=altaqawy&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</p>
 
 ---
 
 ### 📬 Contact
 
-- 📫 Email: altaqawy@gmail.com
+- 📫 Email: [altaqawy@gmail.com](mailto:altaqawy@gmail.com)
 - 💬 Telegram: [@altaqawy](https://t.me/altaqawy)
 - 🌐 Portfolio: [altaqawy.github.io](https://altaqawy.github.io)
 
@@ -63,7 +70,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -75,4 +82,4 @@
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" />
 </p>
 
-<p align="center">✨ Thanks for visiting ✨</p>
+<p align="center"><b>✨ Thanks for visiting! ✨</b></p>
