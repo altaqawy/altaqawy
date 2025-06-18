@@ -61,15 +61,14 @@
 ### 📬 Contact
 
 - 📫 Email: [altaqawy@gmail.com](mailto:altaqawy@gmail.com)
+- 💬 Telegram: [@altaqawy](https://t.me/altaqawy)
 - 🌐 Portfolio: [altaqawy.github.io](https://altaqawy.github.io)
 
 <p align="center">
-  <a href="https://github.com/altaqawy/altaqawy/blob/main/Abdelrahman_Altaqawy_Dev.pdf" download>
+  <a href="https://github.com/altaqawy/altaqawy/files/Abdelrahman_Altaqawy_Dev.pdf" download>
     <img src="https://img.shields.io/badge/Download_CV-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV" />
   </a>
 </p>
-
-
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
