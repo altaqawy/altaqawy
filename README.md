@@ -65,7 +65,7 @@
 - 🌐 Portfolio: [altaqawy.github.io](https://altaqawy.github.io)
 
 <p align="center">
-  <a href="https://altaqawy.github.io/assets/Abdelrahman-CV.pdf" download>
+  <a href="[https://altaqawy.github.io/assets/Abdelrahman-CV.pdf](https://github.com/altaqawy/altaqawy/blob/main/Abdelrahman_Altaqawy_Dev.pdf)" download>
     <img src="https://img.shields.io/badge/Download_CV-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV" />
   </a>
 </p>
