@@ -49,6 +49,10 @@
 </p>
 
 ---
+🧰 Languages & Tools  
+Java • Python • TypeScript • JavaScript • Node.js • Angular • React • Spring Boot • MongoDB • PostgreSQL • Firebase • Docker • Git • CI/CD • TailwindCSS
+---
+
 
 ### 📊 GitHub Stats
 
