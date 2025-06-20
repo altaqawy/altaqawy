@@ -48,8 +48,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,openai,vscode,vercel,git,figma,linux,react,python,nodejs,docker" alt="Tech Stack Icons" />
 </p>
 
-**Languages & Tools:**  
-Java • Python • TypeScript • JavaScript • Angular • Node.js • Spring Boot • React • MongoDB • PostgreSQL • Firebase • Docker • Git • CI/CD • TailwindCSS
 
 ---
 
